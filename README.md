@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, nosotros somos Diego Lindarte , Jefferson Hernández y German Ortega</h1>
 
-<h3 align="center">Desarrolladores de sofware</h3>
+<h3 align="center">Desarrolladores de software</h3>
 
 # Dercargar Imagenes
 
