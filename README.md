@@ -2,7 +2,7 @@
 
 <h3 align="center">Desarrolladores de software</h3>
 
-# Dercargar Imagenes
+# Plugin Dercargar Imagenes
 
 Extencion sencilla para descargar imagenes
 
@@ -34,3 +34,27 @@ Descargar archivos https://github.com/dieguinduartee/DescargasDiego.git
 
 ![Diagrama de secuencia](https://people.cs.uct.ac.za/~swptas001/TimeRank/resources/j-support/SequenceDiagram.png)
 
+<h3 align="center">Nosotros</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jefersonhernandezdev&show_icons=true&locale=en" alt="jefersonhernandezdev" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jefersonhernandezdev&show_icons=true&locale=en&layout=compact" alt="jefersonhernandezdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefersonhernandezdev&" alt="jefersonhernandezdev" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dieguinduartee&show_icons=true&locale=en" alt="dieguinduartee" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dieguinduartee&show_icons=true&locale=en&layout=compact" alt="dieguinduartee" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dieguinduartee&" alt="dieguinduartee" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gemanandresor&show_icons=true&locale=en" alt="gemanandresor" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemanandresor&show_icons=true&locale=en&layout=compact" alt="gemanandresor" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemanandresor&" alt="gemanandresor" /></p>
